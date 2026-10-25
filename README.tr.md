@@ -33,7 +33,6 @@ Bu depoda kaynak kod değil, yayın dosyaları bulunur:
 | Dosya | İçerik |
 |-------|--------|
 | `disPerisiv4.1.3.apk` | Kurulabilir Android sürümü (v4.1.3) |
-| `TÜBİTAK 2204B Proje raporu.pdf` | Proje raporu |
 | `EK 1 - …Türkçe Kullanım Kılavuzu.pdf` | Kullanım kılavuzu, Türkçe |
 | `EK 2 - …İngilizce Kullanım Kılavuzu.pdf` | Kullanım kılavuzu, İngilizce |
 | `EK 3 - …ekran görüntüleri ve kodların detaylı açıklamaları.pdf` | Ekran görüntüleri ve kodların açıklaması |
